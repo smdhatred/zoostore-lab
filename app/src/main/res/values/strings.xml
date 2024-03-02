@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZooStore</string>
+    <string name="price">%1$.0f ₽</string>
+    <string name="cart_title">Корзина</string>
+    <string name="cart_buy_success">Заказ оформлен</string>
+    <string name="profile_title">Профиль</string>
+    <string name="profile_group">Студент группы %s</string>
+    <string name="animal_cart_add_description">Добавить в корзину</string>
+    <string name="cart_buy">Купить</string>
+    <string name="profile_footer">УлГУ, ФМИАТ\n2024</string>
+    <string name="animal_age">Возраст</string>
+</resources>
